@@ -1,0 +1,46 @@
+.article-create {
+  background-color: #F9FFEE;
+  color: #4d5461;
+  padding: 20px;
+  border-radius: 10px;
+  display: block;
+  text-align: center;
+  width: 200px;
+  margin-bottom: 20px;
+
+  .article-form {
+    width: 200px;
+  }
+
+  .article-field {
+    background-color: transparent;
+    font-size: 20px;
+    font-weight: 600;
+    color: #4d5461;
+    border: none;
+    border-bottom: solid 1px #a8b0bf;
+    width: calc(100%);
+    margin-bottom: 10px;
+
+    option {
+      color: #222831;
+      font-weight: 600;
+    }
+  }
+  .article-field:focus {
+    outline: none;
+  }
+  .btn-add {
+    margin-top: 10px;
+    background-color: rgba(91, 226, 108, 0.2);
+    color: #5BE26C;
+    border: none;
+    border-radius: 5px;
+    padding: 6px 8px;
+    cursor: pointer;
+  }
+  .btn-add:hover {
+    background-color: #5BE26C;
+    color: #F9FFEE;
+  }
+}

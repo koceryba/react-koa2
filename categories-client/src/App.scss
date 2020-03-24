@@ -1,0 +1,9 @@
+.App {
+  display: flex;
+
+  .app-content {
+    width: calc(70vw - 15px);
+
+    background-color: #3a424c;
+  }
+}

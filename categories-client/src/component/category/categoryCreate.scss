@@ -1,0 +1,45 @@
+.category-create {
+  background-color: #1a1d24;
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  cursor: pointer;
+
+  .category-form {
+    display: flex;
+
+    .category-field {
+      background-color: transparent;
+      font-size: 20px;
+      font-weight: 600;
+      color: #F9FFEE;
+      border: none;
+      border-bottom: solid 1px #6e7685;
+      width: calc(100% - 40px);
+
+      option {
+        color: #222831;
+        font-weight: 600;
+      }
+    }
+    .category-field:focus {
+      outline: none;
+    }
+    .btn-add {
+      margin-left: 10px;
+      background-color: rgba(91, 226, 108, .15);
+      color: #5BE26C;
+      border: none;
+      border-radius: 5px;
+      padding: 6px 8px;
+      cursor: pointer;
+    }
+    .btn-add:hover {
+      background-color: #5BE26C;
+      color: #F9FFEE;
+    }
+  }
+}
+.category-create:hover {
+  background-color: #171B23;
+}

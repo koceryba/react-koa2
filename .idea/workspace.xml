@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b46b3d05-c1d4-4487-bb61-7ce5b0bdfe3a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="tsconfig.json" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YZKWZSvYjzlgkoWZ2Jr1zSOwNt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.linters.configure.manually.selectedeslint" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../electron/electron-quick-start" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="$PROJECT_DIR$/categories-api/node_modules/eslint" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/categories-api" />
+      <recent name="$PROJECT_DIR$/categories-api/component" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/categories-api" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b46b3d05-c1d4-4487-bb61-7ce5b0bdfe3a" name="Default Changelist" comment="" />
+      <created>1583144708815</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583144708815</updated>
+      <workItem from="1583144710023" duration="1950000" />
+      <workItem from="1583146668153" duration="14308000" />
+      <workItem from="1583219491968" duration="17307000" />
+      <workItem from="1583244591518" duration="8352000" />
+      <workItem from="1583306709282" duration="9949000" />
+      <workItem from="1583318610441" duration="1358000" />
+      <workItem from="1583394564552" duration="3917000" />
+      <workItem from="1583417696773" duration="891000" />
+      <workItem from="1583479801382" duration="826000" />
+      <workItem from="1583825240975" duration="1425000" />
+      <workItem from="1583911829112" duration="14901000" />
+      <workItem from="1583998557632" duration="9271000" />
+      <workItem from="1584084950328" duration="1729000" />
+      <workItem from="1584346453607" duration="16158000" />
+      <workItem from="1584430960203" duration="24873000" />
+      <workItem from="1584516028978" duration="18525000" />
+      <workItem from="1584600756419" duration="23143000" />
+      <workItem from="1584690094055" duration="7573000" />
+      <workItem from="1584708638314" duration="33000" />
+      <workItem from="1584708928747" duration="10000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="588" y="214" width="800" height="677" key="#ESLint" timestamp="1583232124692">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="588" y="214" width="800" height="677" key="#ESLint/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1583232124692" />
+    <state x="588" y="176" key="#JavaScript" timestamp="1583158671019">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="588" y="176" key="#JavaScript/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1583158671019" />
+    <state x="726" y="301" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584519907969">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="726" y="301" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1584519907969" />
+    <state x="824" y="360" key="FileChooserDialogImpl" timestamp="1584708936076">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="824" y="360" key="FileChooserDialogImpl/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1584708936076" />
+    <state x="519" y="237" key="SettingsEditor" timestamp="1583152327246">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="519" y="237" key="SettingsEditor/1920.0.1920.1080/67.27.1853.1053@67.27.1853.1053" timestamp="1583146659559" />
+    <state x="519" y="237" key="SettingsEditor/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1583152327246" />
+    <state x="602" y="95" width="782" height="915" key="find.popup" timestamp="1584008603057">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="602" y="95" width="782" height="915" key="find.popup/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1584008603057" />
+    <state x="657" y="253" key="run.anything.popup" timestamp="1584694327641">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="657" y="253" key="run.anything.popup/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1584694327641" />
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1584453834725">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1584453834725" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/categories-api/routes/category.js</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

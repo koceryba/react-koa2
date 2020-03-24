@@ -1,0 +1,14 @@
+.category-edit {
+  margin-left: auto; }
+  .category-edit .btn-edit {
+    background-color: rgba(90, 157, 226, 0.15);
+    color: #5a9de2;
+    border: none;
+    border-radius: 5px;
+    padding: 6px 7px;
+    cursor: pointer; }
+  .category-edit .btn-edit:hover {
+    background-color: #5996e2;
+    color: #F9FFEE; }
+
+/*# sourceMappingURL=categoryEdit.css.map */

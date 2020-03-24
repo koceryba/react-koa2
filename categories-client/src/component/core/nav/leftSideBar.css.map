@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,cAAe;EACb,SAAS,EAAE,iBAAiB;EAC5B,SAAS,EAAE,iBAAiB;EAC5B,UAAU,EAAE,KAAK;EACjB,OAAO,EAAE,SAAS;EAClB,gBAAgB,EAAE,OAAO",
+"sources": ["leftSideBar.scss"],
+"names": [],
+"file": "leftSideBar.css"
+}

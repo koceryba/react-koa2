@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,eAAgB;EACd,UAAU,EAAE,IAAI;EAEhB,2BAAY;IACV,gBAAgB,EAAE,sBAAsB;IACxC,KAAK,EAAE,OAAO;IACd,MAAM,EAAE,IAAI;IACZ,aAAa,EAAE,GAAG;IAClB,OAAO,EAAE,OAAO;IAChB,MAAM,EAAE,OAAO;EAEjB,iCAAkB;IAChB,gBAAgB,EAAE,OAAO;IACzB,KAAK,EAAE,OAAO",
+"sources": ["articleRemove.scss"],
+"names": [],
+"file": "articleRemove.css"
+}

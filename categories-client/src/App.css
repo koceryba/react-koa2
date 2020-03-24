@@ -1,0 +1,7 @@
+.App {
+  display: flex; }
+  .App .app-content {
+    width: calc(70vw - 15px);
+    background-color: #3a424c; }
+
+/*# sourceMappingURL=App.css.map */

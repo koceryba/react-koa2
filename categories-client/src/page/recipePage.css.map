@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,YAAa;EACX,OAAO,EAAE,SAAS",
+"sources": ["recipePage.scss"],
+"names": [],
+"file": "recipePage.css"
+}

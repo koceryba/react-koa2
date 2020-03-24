@@ -1,0 +1,8 @@
+.left-side-bar {
+  min-width: calc(30vw - 40px);
+  max-width: calc(30vw - 40px);
+  min-height: 100vh;
+  padding: 40px 20px;
+  background-color: #222831; }
+
+/*# sourceMappingURL=leftSideBar.css.map */

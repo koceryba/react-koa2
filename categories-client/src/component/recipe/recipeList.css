@@ -1,0 +1,14 @@
+.recipe-list {
+  margin-top: 40px; }
+  .recipe-list .recipe-list-title {
+    margin-bottom: 15px;
+    color: #F9FFEE; }
+  .recipe-list .recipe-card-list {
+    width: 100%;
+    display: flex;
+    overflow-x: auto;
+    -webkit-mask-image: linear-gradient(to right, black 99%, rgba(0, 0, 0, 0.5) 100%); }
+  .recipe-list .recipe-card-list::-webkit-scrollbar {
+    display: none; }
+
+/*# sourceMappingURL=recipeList.css.map */

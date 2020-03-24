@@ -1,0 +1,16 @@
+.category-remove {
+  margin-left: 10px;
+
+  .btn-remove {
+    background-color: rgba(226, 88, 78, 0.15);
+    color: #e2584e;
+    border: none;
+    border-radius: 5px;
+    padding: 6px 8px;
+    cursor: pointer;
+  }
+  .btn-remove:hover {
+    background-color: #e24e49;
+    color: #F9FFEE;
+  }
+}

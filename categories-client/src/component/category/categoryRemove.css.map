@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,gBAAiB;EACf,WAAW,EAAE,IAAI;EAEjB,4BAAY;IACV,gBAAgB,EAAE,uBAAuB;IACzC,KAAK,EAAE,OAAO;IACd,MAAM,EAAE,IAAI;IACZ,aAAa,EAAE,GAAG;IAClB,OAAO,EAAE,OAAO;IAChB,MAAM,EAAE,OAAO;EAEjB,kCAAkB;IAChB,gBAAgB,EAAE,OAAO;IACzB,KAAK,EAAE,OAAO",
+"sources": ["categoryRemove.scss"],
+"names": [],
+"file": "categoryRemove.css"
+}

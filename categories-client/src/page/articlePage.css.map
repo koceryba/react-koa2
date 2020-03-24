@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,aAAc;EACZ,OAAO,EAAE,SAAS",
+"sources": ["articlePage.scss"],
+"names": [],
+"file": "articlePage.css"
+}

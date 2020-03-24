@@ -1,0 +1,46 @@
+.recipe-edit-form {
+  background-color: #F9FFEE;
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  cursor: pointer;
+  margin-top: 20px; }
+  .recipe-edit-form .recipe-form {
+    display: block; }
+    .recipe-edit-form .recipe-form .recipe-field {
+      background-color: transparent;
+      font-size: 20px;
+      font-weight: 600;
+      color: #4d5461;
+      border: none;
+      border-bottom: solid 1px #6e7685;
+      min-width: calc(100%);
+      margin-bottom: 20px; }
+      .recipe-edit-form .recipe-form .recipe-field option {
+        color: #222831;
+        font-weight: 600; }
+    .recipe-edit-form .recipe-form .recipe-field:focus {
+      outline: none; }
+    .recipe-edit-form .recipe-form .btn-confirm {
+      background-color: rgba(91, 226, 108, 0.15);
+      color: #5BE26C;
+      border: none;
+      border-radius: 5px;
+      padding: 6px 7px;
+      cursor: pointer; }
+    .recipe-edit-form .recipe-form .btn-confirm:hover {
+      background-color: #5BE26C;
+      color: #F9FFEE; }
+    .recipe-edit-form .recipe-form .btn-cancel {
+      margin-left: 10px;
+      background-color: rgba(226, 88, 78, 0.15);
+      color: #e2584e;
+      border: none;
+      border-radius: 5px;
+      padding: 6px 8px;
+      cursor: pointer; }
+    .recipe-edit-form .recipe-form .btn-cancel:hover {
+      background-color: #e24e49;
+      color: #F9FFEE; }
+
+/*# sourceMappingURL=recipeEditForm.css.map */

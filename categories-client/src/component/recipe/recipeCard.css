@@ -1,0 +1,18 @@
+.recipe-card {
+  background-color: #F9FFEE;
+  color: #4d5461;
+  padding: 20px;
+  border-radius: 10px;
+  display: inline-block;
+  text-align: center;
+  min-width: 200px; }
+  .recipe-card .recipe-card-body .title {
+    color: #4d5461; }
+  .recipe-card .recipe-card-body .description {
+    margin-top: 10px;
+    display: inline-block; }
+
+.recipe-card + .recipe-card {
+  margin-left: 20px; }
+
+/*# sourceMappingURL=recipeCard.css.map */

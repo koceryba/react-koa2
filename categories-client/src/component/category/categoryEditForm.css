@@ -1,0 +1,48 @@
+.category-edit-form {
+  background-color: #1a1d24;
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  cursor: pointer; }
+  .category-edit-form .category-form {
+    display: flex; }
+    .category-edit-form .category-form .category-field {
+      background-color: transparent;
+      font-size: 20px;
+      font-weight: 600;
+      color: #F9FFEE;
+      border: none;
+      border-bottom: solid 1px #6e7685;
+      width: calc(100% - 40px); }
+      .category-edit-form .category-form .category-field option {
+        color: #222831;
+        font-weight: 600; }
+    .category-edit-form .category-form .category-field:focus {
+      outline: none; }
+    .category-edit-form .category-form .btn-confirm {
+      margin-left: 10px;
+      background-color: rgba(91, 226, 108, 0.15);
+      color: #5BE26C;
+      border: none;
+      border-radius: 5px;
+      padding: 6px 7px;
+      cursor: pointer; }
+    .category-edit-form .category-form .btn-confirm:hover {
+      background-color: #5BE26C;
+      color: #F9FFEE; }
+    .category-edit-form .category-form .btn-cancel {
+      margin-left: 10px;
+      background-color: rgba(226, 88, 78, 0.15);
+      color: #e2584e;
+      border: none;
+      border-radius: 5px;
+      padding: 6px 8px;
+      cursor: pointer; }
+    .category-edit-form .category-form .btn-cancel:hover {
+      background-color: #e24e49;
+      color: #F9FFEE; }
+
+.category-create:hover {
+  background-color: #171B23; }
+
+/*# sourceMappingURL=categoryEditForm.css.map */

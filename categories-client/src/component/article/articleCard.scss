@@ -1,0 +1,22 @@
+.article-card {
+  background-color: #F9FFEE;
+  color: #4d5461;
+  padding: 20px;
+  border-radius: 10px;
+  display: inline-block;
+  text-align: center;
+  min-width: 200px;
+
+  .article-card-body {
+    .title {
+      color: #4d5461;
+    }
+    .description {
+      margin-top: 10px;
+      display: inline-block;
+    }
+  }
+}
+.article-card + .article-card {
+  margin-left: 20px;
+}

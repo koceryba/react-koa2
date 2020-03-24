@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,YAAa;EACX,aAAa,EAAE,IAAI;EAEnB,iBAAK;IACH,KAAK,EAAE,OAAO;IACd,mBAAE;MACA,KAAK,EAAE,OAAO",
+"sources": ["brearcrumbs.scss"],
+"names": [],
+"file": "brearcrumbs.css"
+}

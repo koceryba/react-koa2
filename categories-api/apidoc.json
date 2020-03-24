@@ -1,0 +1,7 @@
+{
+  "name": "Categories api",
+  "version": "0.1.0",
+  "description": "Categories api documentation",
+  "title": "apiDoc | Category",
+  "url" : "http://localhost:3000/v1"
+}

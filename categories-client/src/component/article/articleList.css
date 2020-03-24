@@ -1,0 +1,14 @@
+.article-list {
+  margin-top: 40px; }
+  .article-list .article-list-title {
+    margin-bottom: 15px;
+    color: #F9FFEE; }
+  .article-list .article-card-list {
+    width: 100%;
+    display: flex;
+    overflow-x: auto;
+    -webkit-mask-image: linear-gradient(to right, black 99%, rgba(0, 0, 0, 0.5) 100%); }
+  .article-list .article-card-list::-webkit-scrollbar {
+    display: none; }
+
+/*# sourceMappingURL=articleList.css.map */

@@ -1,0 +1,11 @@
+export const GET_RECIPE_LIST = 'GET_RECIPE_LIST';
+export const RECIPE_LIST = 'RECIPE_LIST';
+export const GET_DETAIL_RECIPE = 'GET_DETAIL_RECIPE';
+export const DETAIL_RECIPE = 'DETAIL_RECIPE';
+export const CREATE_RECIPE = 'CREATE_RECIPE';
+export const ADD_RECIPE = 'ADD_RECIPE';
+export const REMOVE_RECIPE = 'REMOVE_RECIPE';
+export const DELETE_RECIPE = 'DELETE_RECIPE';
+export const CHANGE_RECIPE = 'CHANGE_RECIPE';
+export const EDIT_RECIPE = 'EDIT_RECIPE';
+export const TOGGLE_EDIT_RECIPE = 'TOGGLE_EDIT_RECIPE';

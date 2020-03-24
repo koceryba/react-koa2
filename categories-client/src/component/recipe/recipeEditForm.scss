@@ -1,0 +1,56 @@
+.recipe-edit-form {
+  background-color: #F9FFEE;
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  cursor: pointer;
+  margin-top: 20px;
+
+  .recipe-form {
+    display: block;
+
+    .recipe-field {
+      background-color: transparent;
+      font-size: 20px;
+      font-weight: 600;
+      color: #4d5461;
+      border: none;
+      border-bottom: solid 1px #6e7685;
+      min-width: calc(100%);
+      margin-bottom: 20px;
+
+      option {
+        color: #222831;
+        font-weight: 600;
+      }
+    }
+    .recipe-field:focus {
+      outline: none;
+    }
+    .btn-confirm {
+      background-color: rgba(91, 226, 108, 0.15);
+      color: #5BE26C;
+      border: none;
+      border-radius: 5px;
+      padding: 6px 7px;
+      cursor: pointer;
+    }
+    .btn-confirm:hover {
+      background-color: #5BE26C;
+      color: #F9FFEE;
+    }
+    .btn-cancel {
+      margin-left: 10px;
+      background-color: rgba(226, 88, 78, 0.15);
+      color: #e2584e;
+      border: none;
+      border-radius: 5px;
+      padding: 6px 8px;
+      cursor: pointer;
+    }
+    .btn-cancel:hover {
+      background-color: #e24e49;
+      color: #F9FFEE;
+    }
+  }
+}

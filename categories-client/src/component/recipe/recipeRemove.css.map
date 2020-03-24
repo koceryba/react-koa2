@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,cAAe;EACb,UAAU,EAAE,IAAI;EAEhB,0BAAY;IACV,gBAAgB,EAAE,sBAAsB;IACxC,KAAK,EAAE,OAAO;IACd,MAAM,EAAE,IAAI;IACZ,aAAa,EAAE,GAAG;IAClB,OAAO,EAAE,OAAO;IAChB,MAAM,EAAE,OAAO;EAEjB,gCAAkB;IAChB,gBAAgB,EAAE,OAAO;IACzB,KAAK,EAAE,OAAO",
+"sources": ["recipeRemove.scss"],
+"names": [],
+"file": "recipeRemove.css"
+}

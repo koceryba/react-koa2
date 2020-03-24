@@ -1,0 +1,15 @@
+.category-card .category-card {
+  margin-left: 20px; }
+.category-card .category-card-body {
+  background-color: #1a1d24;
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  display: flex; }
+  .category-card .category-card-body .title {
+    color: #F9FFEE;
+    cursor: pointer; }
+.category-card .category-card-body:hover {
+  background-color: #171b23; }
+
+/*# sourceMappingURL=categoryCard.css.map */
